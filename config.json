@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildrocess",
+        "uuid": 890442,
+        "checksum": "uimppe"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
